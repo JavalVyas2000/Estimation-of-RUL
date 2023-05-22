@@ -10,7 +10,9 @@ The results from the first principle approach validates the expected profile for
 
 <img width="415" alt="Screenshot 2023-05-21 215929" src="https://github.com/JavalVyas2000/Estimation-of-RUL/assets/73403218/ffea3c6c-4f15-4319-ad0a-d748dc9b1c25">
 
+
 <img width="417" alt="image" src="https://github.com/JavalVyas2000/Estimation-of-RUL/assets/73403218/e8dfd5e6-3eeb-43e7-8020-902d286c32c4">
+
 
 <img width="433" alt="image" src="https://github.com/JavalVyas2000/Estimation-of-RUL/assets/73403218/f50881e1-1bd9-45ea-a9c9-cdc29b8c2126">
 
